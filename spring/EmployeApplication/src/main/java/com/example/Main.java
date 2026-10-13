@@ -11,7 +11,7 @@ public class Main {
         EmployeeService service =
                 context.getBean(EmployeeService.class);
 
-        service.addEmployee("Deepika");
+        service.addEmployee("Ganesh");
         service.displayEmployee();
         service.calculateSalary();
 
