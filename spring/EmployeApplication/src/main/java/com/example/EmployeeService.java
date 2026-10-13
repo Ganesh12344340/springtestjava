@@ -9,7 +9,7 @@ public class EmployeeService {
 	}
 	public void displayEmployee() {
         System.out.println("Employee ID: 101");
-        System.out.println("Employee Name: Deepika");
+        System.out.println("Employee Name: Ganesh");
     }
 
     public void calculateSalary() {
